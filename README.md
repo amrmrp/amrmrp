@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Greenweb [Iranserver](https://www.iranserver.com/)
 
-- 📄 Know about my experiences [http://am-me.ir/](http://am-dev.ir)
+- 📄 Know about my experiences [CV](http://am-dev.ir)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
