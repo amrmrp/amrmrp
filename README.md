@@ -8,4 +8,4 @@ A passionate **Software Engineer** with expertise in **microservices, cloud infr
 🚀 Focused on **scalability, optimization, and building efficient software solutions**.  
 
 📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/amirreza-moghaddampoor/) | [GitHub](https://github.com/amrmrp) | [Telegram](https://t.me/amirreza_moghadampoor)
+[LinkedIn](https://www.linkedin.com/in/amrmrp) | [GitHub](https://github.com/amrmrp) | [Telegram](https://t.me/amrmrp_dev)
